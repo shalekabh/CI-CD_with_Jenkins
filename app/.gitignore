@@ -6,7 +6,7 @@ new-curriculum.iml
 /sdet/sdet.iml
 sdet/sdet.iml
 .terraform
-
+node_modules
 .vs
 .vagrant
 package-lock.json
