@@ -16,4 +16,4 @@ Deploy: This stage involves deploying the built artifacts to the target environm
 
 Publish: The publish stage typically involves generating reports, documentation, and other artifacts that provide insights into the build and test results. This stage may also involve publishing artifacts to artifact repositories or making them available for download.
 
-Notify: In this stage, notifications or alerts are sent out to relevant parties, such as developers, QA teams, or stakeholders, to provide information about the build status or any issues encountered during the pipeline execution..
+Notify: In this stage, notifications or alerts are sent out to relevant parties, such as developers, QA teams, or stakeholders, to provide information about the build status or any issues encountered during the pipeline execution...
