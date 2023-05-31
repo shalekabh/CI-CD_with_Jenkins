@@ -25,4 +25,4 @@ Test the Webhook:
 To ensure the webhook is working correctly, you can make a test push to the GitHub repository.
 After the push, check the Jenkins project's build history to verify that a build was triggered by the webhook.
 You can also check the Jenkins console output to see the build logs and verify that the build process executed as expected.
-Now, whenever you push changes to the GitHub repository, GitHub will send a webhook payload to the configured Jenkins webhook endpoint, triggering a build in Jenkins. The build will execute based on your Jenkins project configuration and perform the necessary actions, such as building, testing, and deploying your code..
+Now, whenever you push changes to the GitHub repository, GitHub will send a webhook payload to the configured Jenkins webhook endpoint, triggering a build in Jenkins. The build will execute based on your Jenkins project configuration and perform the necessary actions, such as building, testing, and deploying your code...
