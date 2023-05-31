@@ -20,7 +20,7 @@ Choose the content type as "application/json".
 Select the events that should trigger the webhook. Typically, you would select "Just the push event" or customize it based on your requirements.
 Make sure the webhook is active/enabled.
 Click on "Add webhook" to save the webhook configuration.
-Test the Webhook:
+Test the Webhook::
 
 To ensure the webhook is working correctly, you can make a test push to the GitHub repository.
 After the push, check the Jenkins project's build history to verify that a build was triggered by the webhook.
