@@ -1,4 +1,4 @@
-# Creating a pipeline:
+# Creating a pipeline
 
 Adjusting the first job creation:
 
