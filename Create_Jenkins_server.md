@@ -56,5 +56,7 @@ Next create an admin user:
 
 ![Alt text](pic_for_mds-jenkins/create%20admin%20user.png)
 
-Then Jenkins is nearly ready click Start using Jenkins and it will take you to the home page:
+Then Jenkins is nearly ready click Start using Jenkins and it will take you to the home page::
+
+
 
