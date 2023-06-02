@@ -60,4 +60,3 @@ Then Jenkins is nearly ready click Start using Jenkins and it will take you to t
 
 ![Alt text](pic_for_mds-jenkins/jenkins%20is%20ready.png)
 ![Alt text](pic_for_mds-jenkins/jenkins%20home.png)
-.
