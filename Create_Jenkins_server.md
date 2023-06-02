@@ -60,10 +60,3 @@ Then Jenkins is nearly ready click Start using Jenkins and it will take you to t
 
 ![Alt text](pic_for_mds-jenkins/jenkins%20is%20ready.png)
 ![Alt text](pic_for_mds-jenkins/jenkins%20home.png)
-
-Create three jobs from the CICD pipeline section, remebering to set webhooks for the first job. the first job triggers the second and etc.
-
-To make sure your SSH keys work. Go to dashboard, then manage Jenkins, find Security, then scroll to the bottom of the page where it says Git Host Key Varification Configuration and select Acept first connection:
-
-![Alt text](pic_for_mds-jenkins/dashboard%20manage%20jenkins.png)
-![Alt text](pic_for_mds-jenkins/git%20host%20key.png)
