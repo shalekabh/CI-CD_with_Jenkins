@@ -61,3 +61,11 @@ Then Jenkins is nearly ready click Start using Jenkins and it will take you to t
 ![Alt text](pic_for_mds-jenkins/jenkins%20is%20ready.png)
 ![Alt text](pic_for_mds-jenkins/jenkins%20home.png)
 
+If none of this works and you need extra plugins, install these from the manage jenkins section and then select plugins and then avaialable plugins:
+
+Install Amazon Ec2
+Amazon Web services SDK::
+Authnetication Tokens API
+Config file provider
+NodeJS
+SSH Agent
