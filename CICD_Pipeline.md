@@ -18,6 +18,8 @@ make sure all your settings are correct with your "git URL", "restrict where thi
 
 - Add a "Post build action" to build Job 2 if the build result is stable: In the settings of the first job, we need to specify an action that triggers the execution of Job 2 only when the build result of the first job is stable. This ensures that Job 2 runs only when the code in the "dev" branch has successfully passed all tests.
 
+only set the webook for job one and job one triggers job 2 so dont check git hub hook trigger in jobs 2 and 3.
+
 ![Alt text](pic_for_mds-jenkins/job%201%207.png)
 
 Creating Job 2 (merging tested code from "dev" to "main" branch):
